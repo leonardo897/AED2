@@ -1,0 +1,2290 @@
+SEMANA 1:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 740
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 703
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 275
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 520
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 508
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 508
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 520
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 454
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 329
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 732
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 703
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 275
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 110
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 923
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 920
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 454
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 923
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 809
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 926
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 684
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 110
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 926
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 329
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 416
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 377
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 920
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 732
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 416
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 534
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 793
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 684
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 377
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 656
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 264
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 330
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 534
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 793
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 11
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 481
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 601
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 809
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 11
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 481
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 601
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 382
+DIA 2:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 656
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 264
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 245
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 68
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 607
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 382
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 330
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 70
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 318
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 502
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 70
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 318
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 68
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 389
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 229
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 245
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 502
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 229
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 810
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 743
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 389
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 743
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 239
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 674
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 615
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 810
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 674
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 615
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 992
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 394
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 239
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 394
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 274
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 564
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 91
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 564
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 607
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 422
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 152
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 175
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 992
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 91
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 74
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 904
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 143
+DIA 3:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 74
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 904
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 143
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 477
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 49
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 152
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 740
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 540
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 444
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 310
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 540
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 477
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 444
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 908
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 847
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 175
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 49
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 775
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 225
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 710
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 775
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 225
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 310
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 274
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 863
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 908
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 863
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 102
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 699
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 594
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 102
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 699
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 594
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 342
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 701
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 710
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 701
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 337
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 311
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 259
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 337
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 847
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 474
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 781
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 504
+DIA 4:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 342
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 781
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 320
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 32
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 147
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 320
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 311
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 32
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 147
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 983
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 474
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 259
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 768
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 589
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 763
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 768
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 589
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 763
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 533
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 572
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 504
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 983
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 385
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 823
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 285
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 385
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 823
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 808
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 331
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 903
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 533
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 331
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 48
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 600
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 599
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 48
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 600
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 903
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 595
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 639
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 808
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 285
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 599
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 246
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 24
+DIA 5:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 422
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 639
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 24
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 942
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 178
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 942
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 178
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 722
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 39
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 631
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 722
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 39
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 451
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 408
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 771
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 595
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 408
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 163
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 559
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 203
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 163
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 559
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 771
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 236
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 155
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 451
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 155
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 756
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 782
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 925
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 756
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 782
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 203
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 963
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 191
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 236
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 925
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 593
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 142
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 295
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 593
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 142
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 295
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 553
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 910
+DIA 6:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 963
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 910
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 631
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 886
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 374
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 886
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 191
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 13
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 935
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 517
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 553
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 935
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 140
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 813
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 528
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 140
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 374
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 813
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 45
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 145
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 13
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 45
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 145
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 25
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 77
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 25
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 528
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 700
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 273
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 397
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 517
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 273
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 261
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 754
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 368
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 261
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 754
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 368
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 602
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 86
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 700
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 602
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 86
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 105
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 937
+SEMANA 2:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 105
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 77
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 666
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 718
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 3
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 397
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 3
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 718
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 521
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 801
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 521
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 666
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 55
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 485
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 853
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 937
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 485
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 655
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 976
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 235
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 655
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 801
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 853
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 133
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 649
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 55
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 649
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 312
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 398
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 468
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 312
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 235
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 468
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 909
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 332
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 976
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 398
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 133
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 355
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 922
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 355
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 922
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 113
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 483
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 548
+DIA 2:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 909
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 483
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 548
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 831
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 482
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 831
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 332
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 551
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 760
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 340
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 551
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 482
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 207
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 874
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 27
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 207
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 27
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 874
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 987
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 265
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 760
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 265
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 246
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 262
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 33
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 987
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 695
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 165
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 352
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 728
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 695
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 352
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 103
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 510
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 212
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 103
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 510
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 728
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 188
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 991
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 165
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 212
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 33
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 757
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 294
+DIA 3:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 188
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 262
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 308
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 22
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 199
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 757
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 294
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 308
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 92
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 873
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 991
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 873
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 779
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 38
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 912
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 779
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 912
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 92
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 136
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 345
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 38
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 22
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 345
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 127
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 654
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 127
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 199
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 340
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 541
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 519
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 136
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 519
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 487
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 777
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 803
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 487
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 777
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 798
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 334
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 378
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 541
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 803
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 132
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 762
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 765
+DIA 4:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 132
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 762
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 334
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 378
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 897
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 897
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 765
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 824
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 977
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 586
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 824
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 586
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 619
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 58
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 783
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 619
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 977
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 104
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 591
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 31
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 104
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 783
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 913
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 860
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 509
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 913
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 860
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 509
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 467
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 286
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 58
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 591
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 286
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 557
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 54
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 467
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 54
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 395
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 396
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 489
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 557
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 31
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 339
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 990
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 854
+DIA 5:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 395
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 339
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 396
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 276
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 169
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 276
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 854
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 798
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 612
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 94
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 990
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 94
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 167
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 162
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 436
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 167
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 612
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 169
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 65
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 587
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 162
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 436
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 577
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 469
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 970
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 65
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 469
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 970
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 430
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 546
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 577
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 546
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 638
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 125
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 643
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 638
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 430
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 750
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 322
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 711
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 125
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 643
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 119
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 985
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 512
+DIA 6:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 119
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 322
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 711
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 896
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 821
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 750
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 896
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 432
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 545
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 675
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 985
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 675
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 545
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 587
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 511
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 432
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 402
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 861
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 958
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 346
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 402
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 958
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 861
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 489
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 609
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 511
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 242
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 661
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 486
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 307
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 242
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 609
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 346
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 113
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 12
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 661
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 307
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 918
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 123
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 356
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 918
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 123
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 697
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 364
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 327
+SEMANA 3:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 486
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 891
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 458
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 335
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 627
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 697
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 627
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 458
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 12
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 532
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 891
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 532
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 327
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 118
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 713
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 335
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 364
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 512
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 350
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 270
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 350
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 270
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 476
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 233
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 706
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 476
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 713
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 258
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 667
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 849
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 233
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 706
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 849
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 266
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 871
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 266
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 258
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 80
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 820
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 100
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 871
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 820
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 828
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 894
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 960
+DIA 2:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 828
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 894
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 80
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 480
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 822
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 667
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 480
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 354
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 418
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 83
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 354
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 418
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 83
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 827
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 57
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 960
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 827
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 821
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 4
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 946
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 4
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 57
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 250
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 484
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 931
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 250
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 484
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 946
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 29
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 539
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 100
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 539
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 855
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 527
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 446
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 855
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 527
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 410
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 108
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 843
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 446
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 410
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 843
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 746
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 93
+DIA 3:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 931
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 93
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 184
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 571
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 161
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 746
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 108
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 193
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 406
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 864
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 184
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 406
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 29
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 101
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 371
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 193
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 864
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 949
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 67
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 323
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 949
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 101
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 371
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 387
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 971
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 387
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 971
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 435
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 279
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 254
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 435
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 279
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 624
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 268
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 893
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 624
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 254
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 637
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 841
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 301
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 67
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 118
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 708
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 161
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 709
+DIA 4:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 268
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 893
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 841
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 380
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 240
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 708
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 240
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 301
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 887
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 121
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 380
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 887
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 249
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 357
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 523
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 709
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 357
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 523
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 549
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 569
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 249
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 323
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 460
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 210
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 668
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 549
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 668
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 503
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 361
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 360
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 121
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 460
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 210
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 569
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 69
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 361
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 360
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 575
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 867
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 366
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 503
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 867
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 69
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 457
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 730
+DIA 5:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 575
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 366
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 453
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 353
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 43
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 457
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 353
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 716
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 146
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 290
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 716
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 146
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 290
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 317
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 664
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 730
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 43
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 434
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 154
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 555
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 317
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 555
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 453
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 10
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 120
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 434
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 120
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 767
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 367
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 999
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 10
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 154
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 579
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 914
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 558
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 767
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 367
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 999
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 951
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 35
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 579
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 914
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 35
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 363
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 201
+DIA 6:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 951
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 201
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 424
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 78
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 134
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 363
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 78
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 134
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 325
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 547
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 325
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 558
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 686
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 632
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 630
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 424
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 547
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 630
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 685
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 182
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 685
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 632
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 76
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 479
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 787
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 686
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 479
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 787
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 256
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 647
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 256
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 647
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 170
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 799
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 217
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 76
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 799
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 217
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 173
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 23
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 173
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 182
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 226
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 475
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 464
+SEMANA 4:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 637
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 226
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 475
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 660
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 995
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 170
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 464
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 736
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 979
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 635
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 736
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 979
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 996
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 296
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 211
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 996
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 995
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 211
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 150
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 205
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 150
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 296
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 494
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 111
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 948
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 23
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 205
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 280
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 326
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 62
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 494
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 111
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 948
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 635
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 944
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 280
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 326
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 644
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 879
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 582
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 944
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 644
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 582
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 433
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 588
+DIA 2:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 879
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 62
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 63
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 15
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 927
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 433
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 15
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 588
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 928
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 232
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 63
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 928
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 498
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 692
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 646
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 927
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 257
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 998
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 900
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 471
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 257
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 998
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 232
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 179
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 930
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 498
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 692
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 204
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 780
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 611
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 900
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 719
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 137
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 53
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 168
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 719
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 780
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 471
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 73
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 247
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 137
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 930
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 247
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 734
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 98
+DIA 3:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 73
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 98
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 168
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 445
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 2
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 734
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 179
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 596
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 392
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 529
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 2
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 445
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 529
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 230
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 271
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 596
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 392
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 204
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 796
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 636
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 230
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 271
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 85
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 645
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 795
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 85
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 645
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 636
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 369
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 411
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 796
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 411
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 72
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 604
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 776
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 72
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 604
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 795
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 980
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 297
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 369
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 776
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 878
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 550
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 66
+DIA 4:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 878
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 980
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 66
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 7
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 816
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 550
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 816
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 139
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 216
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 151
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 139
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 216
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 611
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 82
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 916
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 7
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 916
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 622
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 617
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 934
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 622
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 617
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 399
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 621
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 97
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 399
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 621
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 351
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 51
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 241
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 351
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 241
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 646
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 567
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 220
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 567
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 220
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 141
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 500
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 544
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 141
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 500
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 544
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 652
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 160
+DIA 5:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 652
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 51
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 189
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 906
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 158
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 189
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 160
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 158
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 580
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 618
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 580
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 906
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 478
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 825
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 717
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 478
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 618
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 717
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 694
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 681
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 694
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 825
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 934
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 613
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 542
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 613
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 681
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 876
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 16
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 490
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 876
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 542
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 788
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 705
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 341
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 788
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 705
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 490
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 626
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 696
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 626
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 341
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 616
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 880
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 556
+DIA 6:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 616
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 880
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 556
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 412
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 441
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 412
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 696
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 560
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 892
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 117
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 560
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 892
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 117
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 144
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 956
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 144
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 956
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 97
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 774
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 758
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 16
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 758
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 554
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 832
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 749
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 554
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 441
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 749
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 651
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 997
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 774
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 830
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 805
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 52
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 940
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 830
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 805
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 52
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 997
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 370
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 651
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 940
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 71
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 44
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 26
+SEMANA 5:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 71
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 370
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 407
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 727
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 846
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 407
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 562
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 452
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 994
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 1
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 562
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 44
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 994
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 1
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 459
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 727
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 671
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 848
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 443
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 868
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 671
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 452
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 443
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 868
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 672
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 848
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 459
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 566
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 180
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 679
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 566
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 180
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 679
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 752
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 917
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 672
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 832
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 405
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 61
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 882
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 405
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 752
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 846
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 839
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 129
+DIA 2:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 917
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 882
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 802
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 965
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 818
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 61
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 965
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 129
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 238
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 172
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 802
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 839
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 172
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 492
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 404
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 238
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 404
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 648
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 844
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 200
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 492
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 200
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 751
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 862
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 324
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 751
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 844
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 862
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 792
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 689
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 648
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 761
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 543
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 578
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 872
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 761
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 578
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 792
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 872
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 227
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 543
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 324
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 107
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 462
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 745
+DIA 3:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 107
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 462
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 689
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 702
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 384
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 227
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 384
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 633
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 381
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 845
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 633
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 381
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 745
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 807
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 231
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 702
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 845
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 316
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 561
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 737
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 316
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 561
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 231
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 536
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 166
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 807
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 737
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 491
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 712
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 653
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 491
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 536
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 653
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 253
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 440
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 712
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 440
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 870
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 814
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 157
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 870
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 814
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 157
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 881
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 181
+DIA 4:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 253
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 181
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 315
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 524
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 373
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 881
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 524
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 373
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 901
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 642
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 315
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 642
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 720
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 42
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 759
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 901
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 166
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 733
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 973
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 56
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 42
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 720
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 759
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 707
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 658
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 658
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 973
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 56
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 87
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 28
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 707
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 87
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 982
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 811
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 819
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 733
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 811
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 819
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 969
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 838
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 969
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 28
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 21
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 581
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 423
+DIA 5:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 982
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 423
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 530
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 506
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 516
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 530
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 581
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 21
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 124
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 115
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 506
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 516
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 859
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 625
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 988
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 859
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 625
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 988
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 183
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 537
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 537
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 115
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 964
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 84
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 978
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 124
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 347
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 8
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 957
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 932
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 347
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 183
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 957
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 858
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 857
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 84
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 858
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 95
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 223
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 851
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 95
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 660
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 8
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 851
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 251
+DIA 6:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 978
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 857
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 677
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 966
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 731
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 251
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 966
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 964
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 725
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 174
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 223
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 725
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 838
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 659
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 300
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 659
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 300
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 19
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 195
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 47
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 19
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 195
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 174
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 515
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 984
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 731
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 924
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 535
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 513
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 842
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 924
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 515
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 842
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 984
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 30
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 513
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 932
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 438
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 269
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 895
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 535
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 30
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 884
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 741
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 791
+SEMANA 6:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 438
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 269
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 741
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 869
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 742
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 884
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 47
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 321
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 79
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 278
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 869
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 79
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 742
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 298
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 640
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 321
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 278
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 885
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 673
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 833
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 885
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 640
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 791
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 176
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 244
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 176
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 833
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 455
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 431
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 248
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 298
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 431
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 673
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 328
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 968
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 455
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 244
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 688
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 287
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 156
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 328
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 287
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 939
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 18
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 497
+DIA 2:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 248
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 688
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 497
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 156
+SALA 5 - MÉDICO: Dra Ana - PACIENTE: Paciente 439
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 968
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 18
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 437
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 531
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 522
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 437
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 531
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 439
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 721
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 806
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 939
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 806
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 574
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 400
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 961
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 721
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 961
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 898
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 715
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 687
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 687
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 898
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 400
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 465
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 678
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 715
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 678
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 729
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 417
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 112
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 574
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 465
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 729
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 130
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 993
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 522
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 112
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 993
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 293
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 610
+DIA 3:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 417
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 390
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 122
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 981
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 349
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 293
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 130
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 610
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 333
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 714
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 390
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 349
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 393
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 501
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 463
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 122
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 333
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 981
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 905
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 90
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 393
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 714
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 680
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 386
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 989
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 905
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 463
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 501
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 90
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 314
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 680
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 989
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 60
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 306
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 606
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Marcos - PACIENTE: Paciente 386
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 306
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 812
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 37
+SALA 5 - MÉDICO: Dr Carlos - PACIENTE: Paciente 724
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 812
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 37
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 314
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 421
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 5
+DIA 4:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 60
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 724
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 5
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 338
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 583
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 338
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 606
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 427
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 902
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 447
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 427
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 902
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 447
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 936
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 972
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 936
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 583
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 753
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 126
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 289
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 421
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 126
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 283
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 281
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 277
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 283
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 281
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 289
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 852
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 790
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 753
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 277
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 507
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 473
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 194
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 507
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 194
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 663
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 305
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 804
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 663
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 305
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 790
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 309
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 676
+DIA 5:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 309
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 804
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 592
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 919
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 538
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 592
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 919
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 538
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 488
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 41
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 488
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 41
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 450
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 448
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 34
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 450
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 448
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 34
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 470
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 302
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 470
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 676
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 409
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 461
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 766
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 473
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 461
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 766
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 565
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 563
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 565
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 302
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 888
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 260
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 943
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 409
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 260
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 943
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 213
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 348
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 213
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 576
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 159
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 237
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 986
+DIA 6:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 576
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 677
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 986
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 429
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 738
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Bruno - PACIENTE: Paciente 159
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 237
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 786
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 641
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 348
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 786
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 429
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 499
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 442
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 304
+HORA: 12:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 641
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 442
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 738
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 773
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 466
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 773
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 304
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 590
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 735
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 375
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 499
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 375
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 197
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 267
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 975
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 197
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 267
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 975
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 947
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 187
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 590
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 735
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 187
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 952
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 206
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 952
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 206
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 563
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 303
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 138
+SEMANA 7:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 947
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 466
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 840
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 518
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 202
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 303
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 518
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 138
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 955
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 597
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 840
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 202
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 739
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 14
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 835
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 955
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 597
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 835
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 785
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 284
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 739
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 14
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 365
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 967
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 907
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 785
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 967
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 284
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 570
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 770
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 570
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 907
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 149
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 391
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 198
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 391
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 198
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 255
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 148
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 704
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 365
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 770
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 888
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 252
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 196
+DIA 2:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 148
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 704
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 149
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 313
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 343
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 252
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 343
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 282
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 288
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 221
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 282
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 288
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 196
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 693
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 40
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 313
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 221
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 682
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 938
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 929
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 682
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 693
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 929
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 526
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 778
+HORA: 14:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 938
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 40
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 222
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 272
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 837
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 222
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 272
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 837
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 974
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 525
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 526
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 525
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 228
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 683
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 413
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 228
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 974
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 413
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 292
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 379
+DIA 3:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 683
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 379
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 106
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 584
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 691
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 106
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 584
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 691
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 585
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 698
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 292
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 778
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 336
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 866
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 628
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 336
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 866
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 628
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 665
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 603
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 585
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 698
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 372
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 784
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 883
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 372
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 665
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 883
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 634
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 299
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 784
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 921
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 472
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 263
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 614
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 921
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 603
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 177
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 764
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 959
+HORA: 17:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 177
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 764
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 959
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 817
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 669
+DIA 4:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 817
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 263
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 669
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 865
+SALA 5 - MÉDICO: Dra Mariana - PACIENTE: Paciente 747
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 865
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 747
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 614
+SALA 4 - MÉDICO: Dra Ana - PACIENTE: Paciente 723
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 88
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 723
+SALA 2 - MÉDICO: Dr Bruno - PACIENTE: Paciente 299
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 131
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 829
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 954
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 472
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 388
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 128
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 836
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 449
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 388
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 131
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 344
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 99
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 214
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 829
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 88
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 135
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 505
+SALA 5 - MÉDICO: Dr Bruno - PACIENTE: Paciente 428
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 135
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 505
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 657
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 608
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 344
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 953
+SALA 3 - MÉDICO: Dr Marcos - PACIENTE: Paciente 954
+SALA 4 - MÉDICO: Dr Carlos - PACIENTE: Paciente 950
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 953
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 950
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 856
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 608
+SALA 5 - MÉDICO: Dr Marcos - PACIENTE: Paciente 662
+DIA 5:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 425
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 359
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 800
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 425
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 359
+SALA 3 - MÉDICO: Dr Bruno - PACIENTE: Paciente 836
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 493
+HORA: 11:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 856
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 889
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 941
+SALA 4 - MÉDICO: Dr Bruno - PACIENTE: Paciente 214
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 889
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 800
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 794
+SALA 4 - MÉDICO: Dr Marcos - PACIENTE: Paciente 662
+HORA: 13:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 941
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 420
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 46
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 420
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 493
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 75
+HORA: 15:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 794
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 185
+SALA 3 - MÉDICO: Dra Mariana - PACIENTE: Paciente 514
+HORA: 16:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 75
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 449
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 815
+SALA 4 - MÉDICO: Dra Mariana - PACIENTE: Paciente 224
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 185
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 89
+DIA 6:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 815
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 46
+SALA 3 - MÉDICO: Dr Carlos - PACIENTE: Paciente 744
+HORA: 10:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 89
+SALA 2 - MÉDICO: Dra Mariana - PACIENTE: Paciente 224
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 789
+HORA: 11:00
+SALA 1 - MÉDICO: Dr Carlos - PACIENTE: Paciente 744
+SALA 2 - MÉDICO: Dr Marcos - PACIENTE: Paciente 99
+SALA 3 - MÉDICO: Dra Ana - PACIENTE: Paciente 875
+HORA: 12:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 789
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 319
+HORA: 13:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 875
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 319
+HORA: 14:00
+SALA 1 - MÉDICO: Dra Mariana - PACIENTE: Paciente 514
+SALA 2 - MÉDICO: Dra Ana - PACIENTE: Paciente 726
+HORA: 15:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 726
+HORA: 16:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 209
+HORA: 17:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 209
+SEMANA 8:
+DIA 1:
+HORA: 9:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 834
+HORA: 10:00
+SALA 1 - MÉDICO: Dra Ana - PACIENTE: Paciente 834
+SALA 2 - MÉDICO: Dr Carlos - PACIENTE: Paciente 255
+HORA: 11:00
+
+HORAS TRABALHAS POR CADA MÉDICO:
+Dra Ana: 380 horas
+Dr Carlos: 375 horas
+Dra Mariana: 371 horas
+Dr Marcos: 362 horas
+Dr Bruno: 361 horas
+
+TOTAL: 1849 horas
